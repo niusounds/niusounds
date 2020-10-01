@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![niusounds's github stats](https://github-readme-stats.vercel.app/api?username=niusounds)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **niusounds/niusounds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
