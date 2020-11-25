@@ -1,6 +1,6 @@
-### Hi there 👋
+# Android / iOS Engineer at REALITY inc.
 
-![QR Code](QR.jpg)
+<img src="QR.jpg" width="350">
 
 [![niusounds's github stats](https://github-readme-stats.vercel.app/api?username=niusounds)](https://github.com/anuraghazra/github-readme-stats)
 
