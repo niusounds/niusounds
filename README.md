@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![QR Code](QR.jpg)
+
 [![niusounds's github stats](https://github-readme-stats.vercel.app/api?username=niusounds)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
