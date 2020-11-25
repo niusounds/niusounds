@@ -1,4 +1,4 @@
-# Android / iOS Engineer at REALITY inc.
+# Android / iOS Engineer @REALITY
 
 <img src="QR.jpg" width="350">
 
