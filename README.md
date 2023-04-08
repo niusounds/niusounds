@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on [REALITY](https://reality.app/)
 - **LOVE METAL \m/**
+- https://www.youtube.com/@metaloz3
 
 [![niusounds's github stats](https://github-readme-stats.vercel.app/api?username=niusounds)](https://github.com/anuraghazra/github-readme-stats)
 
