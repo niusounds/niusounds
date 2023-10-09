@@ -11,4 +11,5 @@ like:
 ```
 
 [![niusounds's github stats](https://github-readme-stats.vercel.app/api?username=niusounds)](https://github.com/anuraghazra/github-readme-stats)
-[経歴など](resume.md)
+
+[スキル・経歴など詳細](resume.md)
