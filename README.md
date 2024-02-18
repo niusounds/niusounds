@@ -2,6 +2,9 @@
 
 ```yaml
 name: "Yuya Matsuo"
+alias:
+  - "niu"
+  - "メタルおじさん"
 description: "REALITY株式会社 Androidチーム エンジニアリングマネージャー"
 born: "1987/11/24"
 like:
