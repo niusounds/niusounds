@@ -67,3 +67,8 @@
 - Three.js
 - AWS
 - GCP
+
+### 外部リンク集
+
+- [Wantedlyプロフィール](https://www.wantedly.com/id/niusounds)
+- [Xプロフィール](https://x.com/niusounds)
