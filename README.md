@@ -5,7 +5,7 @@ name: "Yuya Matsuo"
 alias:
   - "niu"
   - "メタルおじさん"
-description: "REALITY株式会社 Androidチーム エンジニアリングマネージャー"
+description: "Software Engineer & Composer"
 born: "1987/11/24"
 like:
   - "Android"
