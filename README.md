@@ -1,29 +1,45 @@
-# About @niusounds
+# 🎸 niusounds / メタル(おじ)さん
 
-```yaml
-name: "Yuya Matsuo"
-alias:
-  - "niu"
-  - "メタルおじさん"
-description: "Software Engineer & Composer"
-born: "1987/11/24"
-like:
-  - "Android"
-  - "Kotlin"
-  - "Heavy Metal"
-  - "Debugging at 3 AM"
-  - "Coffee as black as my code"
+> **"1.5の深淵からAIの未踏域へ。コードに魂を、ロジックに重低音を。"**
+
+ソフトウェアエンジニアにしてコンポーザー。
+Android黎明期（v1.5）からモバイルの進化を最前線で鳴らし続け、現在はAIとの共奏による新たな開発の地平を切り拓いています。
+
+---
+
+## ⚡ The Strategic Core (アピールポイント)
+
+### 🤖 Android Ancestor (Legacy Since 1.5)
+- **Android 1.5 (HT-03A) からの系譜:** 初代日本発売モデルから開発を続けている、叩き上げのAndroidエンジニア。
+- **Modern Mastery:** Kotlin / Jetpack Compose / Coroutines を武器に、モダンで堅牢なアーキテクチャを構築します。
+
+### 🧠 AI Intelligence Lab (Future & Learning)
+AIを「道具」から「パートナー」へ。プライベートでは以下のプロジェクトを通じてAIの限界を追求中：
+- **AI-Driven Blog:** LLM（大規模言語モデル）を活用した自動生成・共同執筆による、実験的なブログ運営。
+- **AI Game Dev:** AIをアセット制作やロジック構築にフル活用し、個人開発の可能性を拡張するゲーム開発。
+
+### 🎹 Multi-Platform Ensemble (Breadth)
+メインのAndroid以外にも、現場の熱狂を支える幅広いスキルセットを完備：
+- **iOS / Flutter:** ネイティブからクロスプラットフォームまで、最適な解を選択できる柔軟性。
+- **Unity:** 3D/2Dの表現力と、モバイルネイティブ基盤を接続する技術力。
+
+---
+
+## 🛠️ Performance Rig (Skills)
+
+```kotlin
+object Niusounds {
+    val major = "Android / Kotlin (Expert since 2013)"
+    val minor = listOf("iOS (Swift)", "Flutter (Dart)", "Unity (C#)")
+    val research = "Generative AI Agent & LLM Orchestration"
+    val fuel = "Coffee as black as my code"
+    
+    fun rock() = println("Keep Coding, Keep Composing.")
+}
 ```
 
-## Hello, World! 👋
+---
 
-I'm Yuya Matsuo, but you can call me "niu" or "メタルおじさん". I'm a Software Engineer who loves to compose music and write code that rocks as hard as my guitar riffs. Born in the late '80s, I've been debugging since the days of dial-up internet.
-
-### Fun Facts:
-- My favorite IDE is Android Studio, and yes, I do talk to it sometimes.
-- I believe in the power of Kotlin and the magic of coroutines.
-- Heavy Metal is my jam, and so is a well-optimized RecyclerView.
-
-[![niusounds's github stats](https://github-readme-stats.vercel.app/api?username=niusounds)](https://github.com/anuraghazra/github-readme-stats)
-
-[スキル・経歴など詳細](resume.md)
+- [詳細なスキル・経歴](resume.md)
+- [X (Twitter)](https://x.com/niusounds)
+- [Wantedlyプロフィール](https://www.wantedly.com/id/niusounds)
