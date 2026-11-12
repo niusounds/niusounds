@@ -46,10 +46,22 @@
     - 初めて買ったAndroid端末は[HT-03A](https://ja.wikipedia.org/wiki/HTC_Magic#HT-03A) (Android 1.5)。
     - 業務でのAndroidアプリ開発は2013年くらいから。
     - Nexus/Pixel端末をだいたい買っています。
+    - **Pixel Foldは1年で壊れました。**
+
+### AIについて
+
+- 業務ではClaude Codeなどのコーディングエージェントを活用しています。
+    - 不用意にコンテキストを与えない・AIが迷ったり間違いを犯したりしないよう適切な指示を心がけています。
+    - AIの出してきたPull Requestを鵜呑みにせず、以下のような観点で検証します。
+        - 互換性を壊すような変更をしていないか
+        - 万が一の際に迅速にロールバック可能な内容になっているか
+        - 勝手な推測による実装をしていないか
+- プライベートではDGX Sparkを使ったローカルLLMの実験をしています。
+    - Hermes Agent
+    - VS CodeのBYOK
 
 ### Flutterについて
 
-- 1.0 stableになるくらいから触っていました。
 - 業務でのアプリ開発は2019年～2020年の約1年間。
 - 周囲のメンバーに先立ってFlutterについて調査し、モックを作ったり実装の相談に乗るなどリードしました。
 - アプリ内にUnityとFlutterを両方組み込む必要があり、DartとC#でやりとりをするための基盤作りをしました。
@@ -59,27 +71,9 @@
 - 2020年～2021年の約1年間、iOSアプリの開発チームでSwift・UIKitを使用し開発していました。
 - FlutterのiOSプラグインを作ったり既存プロジェクトのコードを読み解くためにObjective-Cを学びました。
 
-### AIについて
-
-- 業務ではClaude Codeを主に使用しています。
-    - 不用意にコンテキストを与えない・AIが迷ったり間違いを犯したりしないよう適切な指示を心がけています。
-- プライベートではGeminiを主に使用しています。開発ではAntigravityやGitHub Copilotを使っています。
-    - [Pinnedリポジトリ](https://github.com/niusounds)もご覧ください。
-
-### その他
-
-個人利用レベルですが、以下のような技術にも触れてきました。
-
-- Unity
-- Unreal Engine
-- Node.js
-- TypeScript
-- Vue
-- Three.js
-- AWS
-- GCP
-
 ### 外部リンク集
 
 - [Wantedlyプロフィール](https://www.wantedly.com/id/niusounds)
-- [Xプロフィール](https://x.com/niusounds)
+- [Xプロフィール](https://x.com/metalojisang)
+- [note記事](https://note.com/metalsang)
+- [Qiita記事](https://qiita.com/niusounds)
